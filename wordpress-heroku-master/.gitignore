@@ -1,0 +1,2 @@
+# Do not push wp-config with your private info out to the master github repo
+# Do not push postgres database dumps with private info out to the master github repo
